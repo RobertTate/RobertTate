@@ -10,7 +10,7 @@ I'm a Software Developer living and working in Nashville, TN.
 
 Here's my current website 😄 :
 
-⚡ [quickwinswithcode.com](https://www.quickwinswithcode.com) ⚡
+⚡ <a href="https://www.quickwinswithcode.com" target="_blank">quickwinswithcode.com</a> ⚡
 
 <!--
 **RobertTate/RobertTate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
