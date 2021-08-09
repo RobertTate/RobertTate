@@ -1,7 +1,7 @@
 ## Hi there! 👋 Bobby here.
 <br/>
 
-![](bobbyAda.jpg?raw=true)
+<img src="bobbyAda.jpg" alt="Me and My Daughter" style="max-width:400px;"/>
 
 
 ---
